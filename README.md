@@ -49,7 +49,6 @@ public class CreateFolders : EditorWindow
 {
     private static string projectName = "PROJECT_NAME";
 
-    // Alterado para corresponder à toolbar descrita no README
     [MenuItem("Tools/Setup/Create Default Folders")]
     private static void SetUpFolders()
     {
